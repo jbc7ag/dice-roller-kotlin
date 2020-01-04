@@ -1,4 +1,4 @@
-# Dice Roller (kotlin)
+# Dice Roller (Developing Android Apps with Kotlin - Udacity)
 
 This app cover basic Android components like displaying texts and images, how to manage spacenames and gradle.
 
